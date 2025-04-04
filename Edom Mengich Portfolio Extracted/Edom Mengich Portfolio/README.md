@@ -25,12 +25,12 @@ B:\Python Projects\Edom Mengich Portfolio Extracted\Edom Mengich Portfolio â”‚ â
 
 To view the portfolio locally, follow these steps:
 
-1. Clone this repository (if applicable):
+1. Clone this repository :
     ```bash
     git clone https://github.com/MengichEduu/Hackathon-1-Portfolio-Building-Edom.git
     ```
 
-2. Navigate to the project folder (make sure the folder path matches your local directory):
+2. Navigate to the project folder :
     ```bash
     cd "B:\Python Projects\Edom Mengich Portfolio Extracted\Edom Mengich Portfolio"
     ```
